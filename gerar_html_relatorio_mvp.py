@@ -89,7 +89,7 @@ def construir_cards_feed_html(mencoes_curadas):
                 except Exception:
                     autor = "Portal de Notícias"
             else:
-                autor = "Portal de Notícias"
+                autor = "Folha de S. Paulo"
 
         # Link de acesso ao registro original
         link_html = ""
